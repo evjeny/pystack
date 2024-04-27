@@ -1,0 +1,32 @@
+# задание 1
+
+n = int(input())
+numbers = [int(input()) for _ in range(n)]
+reversed_numbers = numbers[::-1]
+print(*reversed_numbers)
+
+# задание 2
+
+def transform_array(array):
+    return array[-1:] + array[:-1]
+
+n = int(input())
+numbers = [int(a) for a in input().split()]
+print(*transform_array(numbers))
+
+# задание 3
+
+m = int(input())
+n = int(input())
+a = [int(input()) for _ in range(n)]
+a.sort()
+boats = 0
+while a:
+    if len(a) == 1:
+        boats += 1
+        break
+    if a[0] + a[-1] <= m:
+        a.pop(0)
+    a.pop()
+    boats += 1
+print(boats)
