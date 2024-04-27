@@ -21,3 +21,9 @@
 * [задание 1](./l6_while_for/task1.py)
 * [задание 2](./l6_while_for/task2.py)
 * [задание 3](./l6_while_for/task3.py)
+
+## Урок 7. строки
+
+* [задание 1](./l7/task1.py)
+* [задание 2](./l7/task2.py)
+
