@@ -1,0 +1,17 @@
+# задание 1
+
+animal_type = input("Введите вид животного: ")
+animal_age = input("Введите возраст животного: ")
+animal_name = input("Введите кличку животного: ")
+
+print(f"Это {animal_type} по кличке \"{animal_name}\". Возраст: {animal_age}.")
+
+# задание 2
+
+stage1 = input("Введите первый этап: ")
+stage2 = input("Введите второй этап: ")
+stage3 = input("Введите третий этап: ")
+stage4 = input("Введите четвертый этап: ")
+
+print(stage1, stage2, stage3, stage4, sep="=>")
+
