@@ -15,3 +15,9 @@
 * [задание 1](./l5_conditions/task1.py)
 * [задание 2](./l5_conditions/task2.py)
 * [задание 3](./l5_conditions/task3.py)
+
+## Урок 6. циклы while & for
+
+* [задание 1](./l6_while_for/task1.py)
+* [задание 2](./l6_while_for/task2.py)
+* [задание 3](./l6_while_for/task3.py)
