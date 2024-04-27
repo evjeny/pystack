@@ -4,3 +4,8 @@
 
 * [задание 1](./l3_input_output/task1.py)
 * [задание 2](./l3_input_output/task2.py)
+
+## Урок 4. float, int, арифметика
+
+* [задание 1](./l4_counts/task1.py)
+* [задание 2](./l4_counts/task2.py)

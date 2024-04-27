@@ -1,0 +1,19 @@
+# задание 1
+
+side_a = float(input("Введите длину стороны a: "))
+side_b = float(input("Введите длину стороны b: "))
+
+print(f"Площадь прямоугольника: {side_a * side_b}")
+print(f"Периметр прямоугольника: {2 * (side_a + side_b)}")
+
+# задание 2
+
+value = int(input("Введите пятизначное число: "))
+
+result = (
+    ((value % 100 // 10) ** (value % 10)) *
+    (value % 1000 // 100) /
+    (value // 10000 - value % 10000 // 1000)
+)
+print(result)
+
