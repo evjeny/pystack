@@ -9,3 +9,9 @@
 
 * [задание 1](./l4_counts/task1.py)
 * [задание 2](./l4_counts/task2.py)
+
+## Урок 5. логические и условные операторы
+
+* [задание 1](./l5_conditions/task1.py)
+* [задание 2](./l5_conditions/task2.py)
+* [задание 3](./l5_conditions/task3.py)
